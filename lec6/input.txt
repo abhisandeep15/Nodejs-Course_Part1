@@ -1,0 +1,9 @@
+Welcome to the Nodejs full course
+
+
+tcp:transmission control protocol ::it divideds in chunk[small parts]
+
+smtp,http,ftp
+http:hyper text transfer protocal: for web server
+ftp: to transfer file
+smtp: simple mail transfer protocol: for sending mail
